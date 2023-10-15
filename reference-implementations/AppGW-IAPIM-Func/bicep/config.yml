@@ -1,4 +1,4 @@
-AZURE_LOCATION: 'eastus2'
+AZURE_LOCATION: 'westus'
 RESOURCE_NAME_PREFIX: 'apimlz'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
