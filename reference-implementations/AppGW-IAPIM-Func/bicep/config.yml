@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'eastus2'
 RESOURCE_NAME_PREFIX: 'apimaccelerate'
-ENVIRONMENT_TAG: 'main'
+ENVIRONMENT_TAG: 'production'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'github.com/devivasudevan'
