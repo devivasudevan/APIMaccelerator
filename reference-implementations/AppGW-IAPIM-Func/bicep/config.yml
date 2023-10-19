@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'eastus2'
 RESOURCE_NAME_PREFIX: 'apim'
-ENVIRONMENT_TAG: 'prod'
+ENVIRONMENT_TAG: 'test'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'github.com/devivasudevan'
